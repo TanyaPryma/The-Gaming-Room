@@ -1,3 +1,22 @@
-The new client The Gaming Room asked to optimize current video game, that is available on Android. The client requested some software requirements for the game application. During the development process I had to do research and analyze different operational systems,and make a suggestion to the client what would be the best option.Desighning softaware involve many steps. First we need to determine exact requirements of the system, then find out system specification, meaning what system should do and how to implement it. Software design is when developer determines how the system will meet the client's needs, and most importantly how to make system to be effcient.
-One part I would revise is memory optimization, video games must fast perform fast, and since the videogame has to upload many images at once, I think memory allocation is one of the most important development processes. 
-Probably the best part is when I had evaluate and compare different operational systems.
+
+🕹️ **Client**: The Gaming Room  
+🔧 **Task**: Optimize an existing video game app available on Android  
+
+### 🗂️ Project Highlights:
+- 📋 Gathered updated software requirements from the client  
+- 🔍 Researched and analyzed multiple operating systems to recommend the most efficient option  
+- 🧠 Defined system requirements and specifications:
+  - What the system should do  
+  - How it should function and be implemented  
+
+### 🛠️ Software Design Process:
+- Focused on aligning system behavior with client expectations  
+- Prioritized **efficiency** and **performance** in all design decisions  
+
+### 💡 Key Focus Area:
+- **Memory Optimization**:  
+  - Critical for video games that load multiple assets at once  
+  - Ensures faster performance and smoother gameplay  
+
+### 🌟 Favorite Part:
+- Comparing and evaluating different OS platforms to find the best fit for the game  
